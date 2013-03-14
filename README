@@ -1,0 +1,6 @@
+This is a slider puzzle iOS app. User can start playing by selecting three different puzzle sizes: 3x3, 4x4, 5x5. Press the "Hint" button will cause each puzzle piece to show an index number. This is to help player to easily identify the original location of these puzzle pieces. Press "Reset" button will reset the game.
+
+Movements:
+-Each time user can one or more puzzle pieces in a row or a column
+-If the move is less then half way and user lift his touch, all the puzzle pieces will slide back to their original positions
+-If the move is more then half way and user lift his touch, all the puzzle pieces will slide forward to the new positions
